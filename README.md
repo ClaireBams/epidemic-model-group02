@@ -1,1 +1,0 @@
-# epidemic-model-group02
